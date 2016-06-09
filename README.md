@@ -1,2 +1,2 @@
 # Firsties
-My First GIT
+My First Git
